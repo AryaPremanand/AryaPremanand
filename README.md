@@ -18,7 +18,7 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
   <tr>
     <td align="center" width="50%">
       <h3>EMG Prosthetic Arm</h3>
-      <p>Myoelectric robotic arm controlled by muscle signals from two independent muscle sites. Forearm flexion closes all five fingers, armpit flexion bends the elbow.</p>
+      <p>Myoelectric robotic arm controlled by muscle signals from two independent muscle sites. Forearm flexion closes all five fingers, pectoral flexion bends the elbow.</p>
       <p>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white"/>
@@ -28,7 +28,7 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
     </td>
  <td align="center" width="50%">
       <h3>Color Memory Game</h3>
-      <p>A Simon Says style memory game built with Arduino. Players repeat back sequences of colored LEDs that grow longer each level. Battery operated with a fully 3D printed enclosure.</p>
+      <p>A Simon Says style memory game built with Arduino. Players repeat back sequences of colored LEDs that become longer each level. Battery operated with a fully 3D printed enclosure.</p>
       <p>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
