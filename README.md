@@ -12,6 +12,23 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
 - Robotics (Controlling motors and bringing software and hardware together)
 - Solving problems by critical thinking and contantly brainstorming
 
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>EMG Prosthetic Arm</h3>
+      <p>Myoelectric robotic arm controlled by muscle signals from two independent muscle sites. Forearm flexion closes all five fingers, armpit flexion bends the elbow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/3D_Printing-green?style=flat"/>
+      </p>
+      <a href="https://github.com/aryapremanand/emg-robotic-arm">View Project →</a>
+    </td>
+  </tr>
+</table>
+
 # Get in Touch 📬
 Email: aryacanada0@gmail.com
 
