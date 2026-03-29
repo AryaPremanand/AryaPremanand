@@ -24,7 +24,7 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
         <img src="https://img.shields.io/badge/Fusion_360-0696D7?style=flat&logo=autodesk&logoColor=white"/>
         <img src="https://img.shields.io/badge/3D_Printing-green?style=flat"/>
       </p>
-      <a href="[https://github.com/aryapremanand/emg-robotic-arm](https://github.com/AryaPremanand/EMG-Sensed-Prosthetic-Arm)">View Project →</a>
+      <a href="https://github.com/AryaPremanand/EMG-Sensed-Prosthetic-Arm">View Project →</a>
     </td>
   </tr>
 </table>
