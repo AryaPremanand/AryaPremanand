@@ -26,19 +26,18 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
       </p>
       <a href="https://github.com/AryaPremanand/EMG-Sensed-Prosthetic-Arm">View Project →</a>
     </td>
+ <td align="center" width="50%">
+      <h3>Color Memory Game</h3>
+      <p>A Simon Says style memory game built with Arduino. Players repeat back sequences of colored LEDs that grow longer each level. Battery operated with a fully 3D printed enclosure.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/3D_Printing-green?style=flat"/>
+      </p>
+      <a href="https://github.com/AryaPremanand/Color-Memory-game">View Project →</a>
+    </td>
   </tr>
 </table>
-
-<td align="center" width="50%">
-  <h3>Color Memory Game</h3>
-  <p>A Simon Says style memory game built with Arduino. Players repeat back sequences of colored LEDs that grow longer each level. Battery operated with a fully 3D printed enclosure.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/3D_Printing-green?style=flat"/>
-  </p>
-  <a href="https://github.com/AryaPremanand/Color-Memory-game">View Project →</a>
-</td>
 
 # Get in Touch 📬
 Email: aryacanada0@gmail.com
