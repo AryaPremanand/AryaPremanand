@@ -1,4 +1,5 @@
- Hi, I'm Arya Premanand👋
+## Hi, I'm Arya Premanand👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arya%20Premanand&fontSize=50&fontAlignY=35&desc=Robotics%20%7C%20Mechanical%20Engineering%20%7C%20%203D%20design&descAlignY=55&descSize=18)
 
 # About Me
