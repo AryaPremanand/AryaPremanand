@@ -12,4 +12,7 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
 - Robotics (Controlling motors and bringing software and hardware together)
 - Solving problems by critical thinking and contantly brainstorming
 
+# Get in Touch 📬
+Email: aryacanada0@gmail.com
+
 
