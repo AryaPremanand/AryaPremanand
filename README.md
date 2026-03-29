@@ -1,6 +1,8 @@
+ Hi, I'm Arya Premanand👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Arya%20Premanand&fontSize=50&fontAlignY=35&desc=Robotics%20%7C%20Mechanical%20Engineering%20%7C%20%203D%20design&descAlignY=55&descSize=18)
-## Hi, I'm Arya Premanand👋
-I'm a high school student passionate about robotics, mechanical engineering, and physical design. I'm currently building expanding my expertise and knowledge by taking on robotics projects using Arduino and 3D Printed design. Uploading my journey by posting my projects through this GitHub page.
+
+# About Me
+I'm a High School student passionate about robotics, mechanical engineering, and physical design. I'm currently building expanding my expertise and knowledge by taking on robotics projects using Arduino and 3D Printed design. Uploading my journey by posting my projects through this GitHub page.
 Aspiring to study Mechanical or Mechatronic Engineering at the University of Waterloo or McMaster University.
 
 # My Skills
@@ -8,3 +10,5 @@ Aspiring to study Mechanical or Mechatronic Engineering at the University of Wat
 - Embedded systems (Sensor integration with Microcontrollers, organizing signals through software)
 - Robotics (Controlling motors and bringing software and hardware together)
 - Solving problems by critical thinking and contantly brainstorming
+
+
